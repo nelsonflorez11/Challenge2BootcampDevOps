@@ -57,4 +57,13 @@ Solucion
 
 ![Screenshot](./img/evidencia.png)
 
+---
+<br>
+
+# Reto 3 - Linux - gestión de directorios
+
+Solucion
+
+![Screenshot](./img/4.png)
+
 
